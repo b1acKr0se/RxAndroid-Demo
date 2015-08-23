@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">RxAndroidDemo</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="suggestions">Who to follow</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="follow_button">Follow</string>
+    <string name="name_placeholder">Hai Nguyen Thanh</string>
 </resources>
